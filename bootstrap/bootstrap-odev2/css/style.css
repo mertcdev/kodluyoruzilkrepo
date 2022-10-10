@@ -1,0 +1,87 @@
+@media only screen and (max-width: 576px) {
+  .logo {
+    margin-left: 0rem;
+  }
+  .logo button {
+    margin: 0rem,;
+    border-style:none 
+  }
+}
+
+@media only screen and (min-width: 576px) {
+  .logo {
+    margin-left: 12rem;
+  }
+} 
+
+.middlearea {
+  max-height: 200px !important;
+} 
+
+.card {
+  margin-top: 2rem;
+}
+.card-header {
+  background-color: white;
+}
+.card-footer {
+  background-color: white;
+}
+
+input::placeholder{
+  text-align: center;
+  font-size: 14px;
+  color:gray;
+  background-position: 0%;
+  background-size: 10%;
+  background-image:url(/assets/search-solid.svg);
+  background-repeat: no-repeat;
+  padding-left: 1rem;
+} 
+
+input.empty {
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    background-color: #FAFAFA;
+}
+
+.postuserfont {
+  font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.storyphoto {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid rgb(238, 39, 82);
+  margin-right: 7px;
+}
+
+.storytext {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 12px;
+  color: black;
+}
+
+.rightpanel {
+  background-color: white;
+  border: none;
+}
+
+.rightpanellinks {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+.rightpanellinks:hover {
+  text-decoration: none;
+  color: lightgrey;
+}
+
+#sticky-sidebar {
+position: fixed;
+}
