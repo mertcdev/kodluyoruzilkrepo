@@ -1,2 +1,8 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+# kodluyoruzilkrepo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+https://app.patika.dev/mertdev
+## ![](./patika.gif)
+
+<p align="center">
+  <img alt="Light" src="./instagramclone.gif" width="100%">
+</p>
