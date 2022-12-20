@@ -4,5 +4,5 @@ https://app.patika.dev/mertdev
 ## ![](./patika.gif)
 
 <p align="center">
-  <img alt="Light" src="/todolist.gif" width="100%">
+  <img alt="Light" src="./todolist.gif" width="100%">
 </p>
